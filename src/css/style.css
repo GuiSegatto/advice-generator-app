@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  background-color: hsl(218, 23%, 16%);
+}
+
+.main-card {
+  background-color: hsl(219, 19%, 24%);
+}
+
+.quote-id {
+  color: hsl(150, 100%, 66%);
+}
+
+.block-quote__quote {
+  color: hsl(193, 38%, 86%);
+}
